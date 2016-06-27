@@ -8,6 +8,11 @@ jdk1.8.0_77
 Maven 3.3.3
 
 junit 4
+Assumptions
+----
+please look at the assumptions txt file included in the project.
+
+FileName: Assumptions
 
 Execution:
 ---
