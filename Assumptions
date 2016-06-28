@@ -24,7 +24,7 @@ Assumption
 	1.5 Receive responses from the resource. The response can be xml/json.
 2. Spring container can be used to instantiate the beans. Dependency Injection can be implemented by Constructor or Setter injections.
 3. In the Data access layer we integrate Spring with Hibernate/iBatis
-4. Spring JDBCTemplate or Hibernate Template can be used to perform CRUD operations on the Database
-5. We can store and retrieve the VenueLevel information from the Database.
-6. SeatHod confirmation code and Reservation confirmation code can be saved to the Database.
+4. Spring JDBC Template or Hibernate Template can be used to perform CRUD operations on the Database
+5. We can store and retrieve the Venue Level information from the Database.
+6. Seat Hold confirmation code and Reservation confirmation code can be saved to the Database.
 
